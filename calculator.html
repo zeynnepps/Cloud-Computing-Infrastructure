@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+
+<table border="1" cellspacing="1" cellpadding="1">
+    <tr>
+        <td colspan="5"><input type="text" id="screen" readonly></td>
+    </tr>
+    <tr>
+        <td colspan="2"><button onclick="main('C')">Clear</button></td>
+        <td><button onclick="calculate()">=</button></td>
+        <td><button onclick="main('(')">(</button></td>
+        <td><button onclick="main(')')">)</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="main('*')">*</button></td>
+        <td><button onclick="main('/')">/</button></td>
+        <td><button onclick="main('+')">+</button></td>
+        <td><button onclick="main('-')">-</button></td>
+        <td><button onclick="main('.')">.</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="main('1')">1</button></td>
+        <td><button onclick="main('2')">2</button></td>
+        <td><button onclick="main('3')">3</button></td>
+        <td><button onclick="main('4')">4</button></td>
+        <td><button onclick="main('5')">5</button></td>
+    </tr>
+    <tr>
+        <td><button onclick="main('6')">6</button></td>
+        <td><button onclick="main('7')">7</button></td>
+        <td><button onclick="main('8')">8</button></td>
+        <td><button onclick="main('9')">9</button></td>
+        <td><button onclick="main('0')">0</button></td>
+    </tr>
+</table>
+
+<script>
+    function main(key) {
+        var screen = document.getElementById("screen");
+        if (key === 'C') {
+            screen.value = '';
+        } else {
+            screen.value += key;
+        }
+    }
+
+    function calculate() {
+        var screen = document.getElementById("screen");
+        try {
+            screen.value = eval(screen.value);
+        } catch (e) {
+            screen.value = 'Error';
+        }
+    }
+</script>
+
+</body>
+</html>
