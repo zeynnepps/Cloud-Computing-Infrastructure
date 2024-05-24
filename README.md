@@ -18,13 +18,15 @@ No additional software is required.
 #### Clone the Repository:
 Copy code
 
-git clone https://github.com/zeynnepps/<name>.git
+https://github.com/zeynnepps/Cloud-Computing-Infrastructure.git
+
 Alternatively, you can download the ZIP file from the repository and extract it to your local machine.
 
 #### Navigate to the Project Directory:
 Copy code
 
-cd <name>
+cd Cloud-Computing-Infrastructure
+
 Open the HTML File:
 
 Open index.html in your preferred web browser. You can do this by double-clicking the file or right-clicking and selecting "Open with" and then your browser.
