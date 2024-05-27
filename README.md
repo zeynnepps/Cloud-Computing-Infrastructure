@@ -29,15 +29,15 @@ cd Cloud-Computing-Infrastructure
 
 Open the HTML File:
 
-Open index.html in your preferred web browser. You can do this by double-clicking the file or right-clicking and selecting "Open with" and then your browser.
+Open calculator.html in your preferred web browser. You can do this by double-clicking the file or right-clicking and selecting "Open with" and then your browser.
 
 ## Download and Documentation
 You can download the project files from the GitHub repository.
-The HTML file (index.html) contains the structure of the calculator.
+The HTML file (calculator.html) contains the structure of the calculator.
 The JavaScript code (embedded in the HTML file) handles the calculator logic.
 
 ## Execution Process
-Open the HTML File: Open index.html in your web browser.
+Open the HTML File: Open calculator.html in your web browser.
 Use the Calculator:
 
 Input Numbers and Operators: Click the buttons to input numbers and arithmetic operators.
