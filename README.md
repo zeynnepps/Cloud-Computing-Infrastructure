@@ -5,10 +5,10 @@
 This project is a simple calculator application built using HTML, JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, along with handling parentheses for grouping operations. The calculator interface includes buttons for digits, operators, and a display screen to show the input and result.
 
 ### Table of Contents
-1. Setup Instructions
-2. Download and Documentation
-3. Execution Process
-4. Screenshots
+1. [Setup Instructions](#setup-instructions)
+2. [Download and Documentation](#download-and-documentation)
+3. [Execution Process](#execution-process)
+4. [Screenshots](#screenshots)
    
 ## Setup Instructions
 ### Prerequisites
