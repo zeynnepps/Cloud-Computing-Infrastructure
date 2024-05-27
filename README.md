@@ -67,7 +67,7 @@ To clear the screen, click Clear.
 
 #### Calculator Layout
 
-<img width="168" alt="Screenshot 2024-05-24 at 1 04 55 PM" src="https://github.com/zeynnepps/Cloud-Computing-Infrastructure/assets/49025266/ea3c4c0b-7b46-4246-b508-45c654c93dbf">
+<img width="171" alt="Screenshot 2024-05-27 at 4 29 56 PM" src="https://github.com/zeynnepps/Cloud-Computing-Infrastructure/assets/49025266/366f5447-c12b-422e-8339-d70017c9655e">
 
 #### Operations
 
@@ -75,7 +75,7 @@ To clear the screen, click Clear.
 
 #### Result
 
-<img width="165" alt="Screenshot 2024-05-24 at 1 06 44 PM" src="https://github.com/zeynnepps/Cloud-Computing-Infrastructure/assets/49025266/9dace7ac-d17d-4334-b9f0-cb5fdf7ee068">
+<img width="172" alt="Screenshot 2024-05-27 at 4 29 38 PM" src="https://github.com/zeynnepps/Cloud-Computing-Infrastructure/assets/49025266/b473849c-68af-44d1-8d37-d998f2ef9433">
 
 ## Code Explanation
 HTML: The HTML structure includes a table with buttons for digits, operators, and control functions like clear and evaluate.
