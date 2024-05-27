@@ -71,7 +71,7 @@ To clear the screen, click Clear.
 
 #### Operations
 
-<img width="164" alt="Screenshot 2024-05-24 at 1 06 18 PM" src="https://github.com/zeynnepps/Cloud-Computing-Infrastructure/assets/49025266/cbdd96f6-f032-48fa-a2c6-8ec141b68235">
+<img width="171" alt="Screenshot 2024-05-27 at 4 30 37 PM" src="https://github.com/zeynnepps/Cloud-Computing-Infrastructure/assets/49025266/5ec6a8c7-b8f0-4968-874f-333047e806fa">
 
 #### Result
 
