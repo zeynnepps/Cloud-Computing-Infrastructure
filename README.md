@@ -47,13 +47,17 @@ Evaluate Expression: Click the = button to evaluate the expression.
 Clear Screen: Click the Clear button to reset the input screen.
 
 #### Example Operations
-To perform the operation 12 + 7:
+To perform the operation 7 * 2 + 5:
 
-Click 1, then 2.
+Click 7.
+
+Click *.
+
+Click 2.
 
 Click +.
 
-Click 7.
+Click 5.
 
 Click = to get the result 19.
 
@@ -83,10 +87,3 @@ The calculate function evaluates the expression displayed on the screen using th
 ## Conclusion
 
 This calculator is a basic implementation intended for learning purposes. Users can enhance it by adding more features like keyboard support, scientific functions, and improved styling.
-
-
-
-
-
-
-
